@@ -20,7 +20,12 @@ html,body{
 .flex-item{
 
 }
-
+a{
+  display: block;
+}
+a:hover{
+  cursor: hand;
+}
 img{
   width: 100%;
   max-width: 200px;
